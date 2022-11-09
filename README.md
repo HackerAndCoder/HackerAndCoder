@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HackerAndCoder
 - 👀 I’m interested in Cool Apps and socker servers
 - 🌱 I’m currently learning socket tkinter opencv
-- 💞️ I’m looking to collaborate on something
 - ⛏️ Working on a Minecraft clone!
 <!---
 HackerAndCoder/HackerAndCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
